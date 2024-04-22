@@ -1,0 +1,6 @@
+[submodule "toast-E-ui"]
+	path = toast-E-ui
+	url = git@github.com:forrest-herman/toast-E-ui.git
+[submodule "toaste_fw"]
+	path = toaste_fw
+	url = git@github.com:patrickkosierb/toaste_fw.git
