@@ -1,6 +1,8 @@
 # Toast-E by Baker-E
 The parent Toast-E repository is composed of a Firmware repository and a UI repository.
 
+![ToastE2](project-images/toaste2.jpg)
+
 ## Why Toast-E?
 
 What if I told you there was a toaster that could never burn toast?
@@ -16,3 +18,13 @@ Frustrated with unpredictable toast, and a total lack of innovation in the kitch
 ## Report
 
 [View Toast-E Documentation](Toast-E_Documentation.pdf)
+
+## Project Images
+
+|                                                      |                                                      |                                                      |                                                     |                                                     |
+| :--------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: |
+| <img width="1604" src="project-images/screen1.jpeg"> | <img width="1604" src="project-images/screen2.jpeg"> | <img width="1604"  src="project-images/screen3.jpg"> | <img width="1604" src="project-images/screen4.jpg"> | <img width="1604" src="project-images/screen5.jpg"> |  |
+
+![ToastE1](project-images/toaste1.jpg)
+![ToastE3](project-images/toaste3.jpg)
+![Camera Module](project-images/toaste4.jpg)
