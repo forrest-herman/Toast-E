@@ -23,7 +23,11 @@ Frustrated with unpredictable toast, and a total lack of innovation in the kitch
 
 |                                                      |                                                      |                                                      |                                                     |                                                     |
 | :--------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: |
-| <img width="200px" src="project-images/screen1.jpeg"> | <img width="200px" src="project-images/screen2.jpeg"> | <img width="200px" src="project-images/crisp-selector.gif"> | <img width="200px" src="project-images/screen4.jpg"> | <img width="200px" src="project-images/screen5.jpg"> |  |
+| <img width="20%" src="project-images/screen1.jpeg"> | <img width="20%" src="project-images/screen2.jpeg"> | <img width="20%" src="project-images/crisp-selector.gif"> | <img width="20%" src="project-images/screen4.jpg"> | <img width="20%" src="project-images/screen5.jpg"> |  |
+
+|                                                      |                                                      |                                                            |                                                     |                                                     |
+| :--------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: |
+| <img width="100%" src="project-images/screen1.jpeg"> | <img width="100%" src="project-images/screen2.jpeg"> | <img width="100%" src="project-images/crisp-selector.gif"> | <img width="100%" src="project-images/screen4.jpg"> | <img width="100%" src="project-images/screen5.jpg"> |  |
 
 ![ToastE1](project-images/toaste1.jpg)
 ![ToastE3](project-images/toaste3.jpg)
